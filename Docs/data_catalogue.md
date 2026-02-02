@@ -5,7 +5,7 @@ Contient les informations descriptives des clients.
 Elle permet d’analyser les ventes par client, pays, genre, etc.
 
 📐 Structure détaillée
-C| Column Name       | Type    | Description                       |
+| Column Name       | Type    | Description                       |
 | ----------------- | ------- | --------------------------------- |
 | customer_key (PK) | INT     | Surrogate key générée dans le DWH |
 | customer_id       | INT     | Identifiant métier venant du CRM  |
